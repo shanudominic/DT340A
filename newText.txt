@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 edited onto branch
+=======
+add on branch2
+>>>>>>> branch2
 ne text file
